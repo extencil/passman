@@ -19,7 +19,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changelog structure patterns
 - License disclaimer on README
 
-## [0.1.0-alpha] - 2025-08-05
+### Fixed
+- Template version on CHANGELOG.md
+
+## [0.0.0-alpha] - 2025-08-05
 
 ### Added
 
